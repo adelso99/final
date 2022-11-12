@@ -25,7 +25,7 @@ img {
     text-align: center;
     font-size: 2.5em;
     margin: 10px 0;
-    color: #454546;
+    color: #1aff00;
     font-family: "Poppins";
 }
 .main-header__container{
@@ -34,7 +34,7 @@ img {
     align-items: center;
   }
   .main-header__link {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 0, 0);
   }
 
 /*Estilos que tiene el Menu*/
